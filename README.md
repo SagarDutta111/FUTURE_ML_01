@@ -143,6 +143,6 @@ jupyter notebook FUTURE_ML_01.ipynb
 
 ##  Author
 
-Anannya Mandal
+Sagar Dutta
 
 If you found this project useful, consider giving it a  on GitHub.
